@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "++Si5XaU3hFOqiBxeeKeMejGpIM0dOV6H68Wa4JRteA=",
+  "Source": "VerifyEmailAndForgotPassword",
+  "BasePath": "_content/VerifyEmailAndForgotPassword",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
